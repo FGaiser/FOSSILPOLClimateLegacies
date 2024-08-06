@@ -1,5 +1,5 @@
 # Adapted FOSSILPOL Workflow
-This is an adapted version of the [FOSSILPOL workflow](https://github.com/HOPE-UIB-BIO/FOSSILPOL-workflow) used for preprocessing data for the manuscript **Climate legacies accelerated global rates of vegetation change over the last 21,000 years**.
+This is an adapted version of the [FOSSILPOL workflow](https://github.com/HOPE-UIB-BIO/FOSSILPOL-workflow) used for preprocessing [Neotoma](https://www.neotomadb.org/) fossil pollen data for the manuscript **Climate legacies accelerated global rates of vegetation change over the last 21,000 years**.
 
 Adaptions of the FOSSILPOL Workflow template comprise:
 - [selection of depositional environments](R/01_Data_processing/01_Neotoma_source/depositional_environments.R)
